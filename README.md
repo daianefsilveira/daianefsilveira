@@ -1,7 +1,7 @@
 ### Olá, meu nome é Daiane Silveira :wave::smiley:
 #### Em transição de carreira para a área de desenvolvimento e em busca da primeira oportunidade.
 
-🎓 Análise e Desenvolvimento de Sistemas - 2º semestre - Fadergs
+🎓 Análise e Desenvolvimento de Sistemas - 3º semestre - Fadergs
 
 💻 Desenvolvimento Web Full Stack - Recode Pro 
 
