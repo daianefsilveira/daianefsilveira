@@ -12,7 +12,11 @@
 <div>
 <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
 <img align="center" alt="c++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+<img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+<img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="react" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+<img align="center" alt="node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
 <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
 <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor">
 <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor"> <p>
@@ -20,7 +24,10 @@
 #### 💼 Ferramentas de desenvolvimento
  
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=007ACC)
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeansIDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=007ACC) 
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 </div>
