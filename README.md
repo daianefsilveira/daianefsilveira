@@ -1,5 +1,6 @@
 ### Olá, meu nome é Daiane Silveira :wave::smiley:
-#### Em transição de carreira para a área de desenvolvimento e em busca da primeira oportunidade.
+
+🌱 Estagiária em Desenvolvimento de software para Android - Foursys
 
 🎓 Análise e Desenvolvimento de Sistemas - 3º semestre - Fadergs
 
