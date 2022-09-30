@@ -11,8 +11,9 @@
 #### 🚀 Aprendendo
  
 <div>
- 
-<img align="center" alt="Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
+
+<img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>      
+<img align="center" alt="Android" height="30" width="40"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
 <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
 <img align="center" alt="c++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
 <img align="center" alt="c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
