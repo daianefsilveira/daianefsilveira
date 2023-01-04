@@ -1,8 +1,8 @@
 ### Olá, meu nome é Daiane Silveira :wave::smiley:
 
-🌱 Estagiária em Desenvolvimento de software para Android - Foursys
+🌱 Desenvolvedora de software Android
 
-🎓 Análise e Desenvolvimento de Sistemas - 3º semestre - Fadergs
+🎓 Análise e Desenvolvimento de Sistemas - 4º semestre - Fadergs
 
 💻 Desenvolvimento Web Full Stack - Recode Pro 
 
