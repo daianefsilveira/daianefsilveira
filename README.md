@@ -2,7 +2,7 @@
 
 🌱 Desenvolvedora de software Android
 
-🎓 Análise e Desenvolvimento de Sistemas - 5º semestre - Fadergs
+🎓 Análise e Desenvolvimento de Sistemas - Fadergs
 
 💻 Desenvolvimento Web Full Stack - Recode Pro 
 
